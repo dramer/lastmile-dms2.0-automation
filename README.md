@@ -1,6 +1,23 @@
 # lastmile-dms2.0-automation
 Last mile automation project in .net framework for DMS 2.0
 
+## Introduction
+what is this framework
+
+## Last Update
+### 9/21/2017 - Updated the Readme Template
+
+## How to install
+
+### Pre-requisites
+
+
+## How to Run Sample Test
+
+## Features
+  * DB Access Featuer 
+
+## How to Get Help
 What we have done to setup/Resuse the existing framework?
 
 -	Created a new GIT repository named lastmile-dms2.0-automation for storing  .net automation framework and test script code.
